@@ -1,4 +1,4 @@
-![Ravindu GIT Banner](https://user-images.githubusercontent.com/60037870/124356761-78067a80-dc35-11eb-9f9a-8971f1849943.png)
+![ravinduLakmina](https://user-images.githubusercontent.com/60037870/219934179-53fdeaea-6b03-417e-bb5e-061d30b740bc.png)
 
 
 - 👋 Hi, I’m @Ravindu. Cyber security enthusiast with hands on experience working with tools.
